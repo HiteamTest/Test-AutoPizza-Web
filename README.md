@@ -3,3 +3,4 @@
 
 
 Fix for Issue #1 by Sayama
+Fix for Issue #5 by Maruo
