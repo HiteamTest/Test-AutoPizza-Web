@@ -1,4 +1,4 @@
 # Test-AutoPizza-Web
 自動でピザを注文するbot
 
-Edit by Maruo at Thu Oct 29 11:22:12 JST 2015
+Edit at Mon Nov  2 10:22:18 JST 2015
